@@ -24,7 +24,7 @@ on task-related text input, thus is context-aware, making it suitable to general
 for both seen and unseen classes.
 
 <div align="left">
-  <img src="images/train_overview.png" width="40%"/>
+  <img src="images/train_overview.png" width="75%"/>
 </div>
 
 
